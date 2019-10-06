@@ -1,4 +1,4 @@
-actions = {
+actions = [
     "move-up",
     "move-down",
     "move-left",
@@ -10,4 +10,4 @@ actions = {
     "take-off",
     "land",
     "exit"
-}
+]
